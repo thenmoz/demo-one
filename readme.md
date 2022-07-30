@@ -10,3 +10,11 @@
 5. ระบบ Database
     * ทำหน้าที่เก็บข้อมูลสินค้าเบอร์โทรศัพท์
 6. ระบบแชทจากหน้า Frontend ต่อตรงหาพนักงาน Admin หลังบ้าน (Line, Facebook, Instagram, Livechat)
+
+# Development Tools
+
+POSTGRESQL V 14.4.1
+Angular V
+Nodejs V
+
+Super User 1234
