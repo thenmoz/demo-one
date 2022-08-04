@@ -4,7 +4,7 @@
 3. ระบบ Application Frontend
     * Landing Pages สำหรับลูกค้า
     * Landing Pages สำหรับพนักงานหลังบ้าน
-        * ระบบ login สำหรับพนักงานที่จะเข้ามาดูแลสินค้าหลังบ้าน
+    * ระบบ login สำหรับพนักงานที่จะเข้ามาดูแลสินค้าหลังบ้าน
 4. ระบบ Backend
     * BE จะมีหน้าที่ทำ CRUD สำหรับในการเพิ่มเบอร์โทรที่จะขาย ซึ่งมีการต่อกับระบบ FE และ Database
 5. ระบบ Database
@@ -13,8 +13,8 @@
 
 # Development Tools
 
-POSTGRESQL V 14.4.1
-Angular V
-Nodejs V
-
+## POSTGRESQL V 14.4.1
+## React
+## Nodejs
+#
 Super User 1234
